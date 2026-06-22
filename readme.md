@@ -9,8 +9,11 @@ This project is an AI-powered Language Translator developed using Python and Str
 
 Through this project, I explored how Natural Language Processing (NLP) tools can be integrated into user-friendly applications and gained hands-on experience in developing interactive AI-powered software.
 
----
+-----------------------------------------------------------------------------------------------------------------------------
+## 📷 Project Preview
 
+![AI Language Translator](screenshot.png)
+-------------------------------------------------------------------------------------------------------------------------------
 ##  What I Learned
 
 * Building interactive web applications using Streamlit
@@ -21,7 +24,7 @@ Through this project, I explored how Natural Language Processing (NLP) tools can
 * Improving user experience through simple interface design
 * Using Git and GitHub for project management and version control
 
----
+-----------------------------------------------------------------------------------------------------------------------------------
 
 ##  Technologies Used
 
