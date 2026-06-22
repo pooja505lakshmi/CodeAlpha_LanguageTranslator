@@ -13,6 +13,9 @@ Through this project, I explored how Natural Language Processing (NLP) tools can
 ## 📷 Project Preview
 
 ![AI Language Translator](Screenshot.png)
+-----------------------------------------------------------------------------------------------------------------------------
+## 🌐 Live Demo
+👉 Try it here: https://codealphalanguagetranslator-256bx2xnk8orpxkkbsqvk8.streamlit.app/
 -------------------------------------------------------------------------------------------------------------------------------
 ##  What I Learned
 
