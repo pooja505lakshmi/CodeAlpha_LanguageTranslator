@@ -12,7 +12,7 @@ Through this project, I explored how Natural Language Processing (NLP) tools can
 -----------------------------------------------------------------------------------------------------------------------------
 ## 📷 Project Preview
 
-![AI Language Translator](screenshot.png)
+![AI Language Translator](Screenshot.png)
 -------------------------------------------------------------------------------------------------------------------------------
 ##  What I Learned
 
