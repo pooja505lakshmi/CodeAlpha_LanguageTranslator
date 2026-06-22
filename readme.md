@@ -94,7 +94,7 @@ Solving these challenges improved my debugging, problem-solving, and project dep
 
 ##  Author
 
-**Poojalakshmi**
+**M Pooja lakshmi**
 
 First-Year B.Tech (AI & Data Science)
 
